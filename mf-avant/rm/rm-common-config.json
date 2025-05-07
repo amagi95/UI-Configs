@@ -47,6 +47,11 @@
       "type": "telegram",
       "name": "Telegram",
       "icon": "mdi-send-circle"
+    },
+    {
+      "type": "mqtt",
+      "name": "MQTT",
+      "icon": "mdi-wifi"
     }
   ]
 }
