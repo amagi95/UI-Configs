@@ -6,7 +6,7 @@
   "links": [
     {
       "title": "labels.dts",
-      "icon": "mdi-ruler-square-compass",
+      "icon": "mdi-vector-square",
       "link": "/dts"
     }
   ],
@@ -17,7 +17,7 @@
   "keycloak": {
     "enabled": true
   },
-  "logo": "/rm/RuleManager.svg",
+  "logo": "/dtm/RuleManager.svg",
   "miniLogo": "/de-mini.svg",
   "showServicesMenu": false
 }
