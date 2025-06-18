@@ -60,6 +60,11 @@
       "measuresList": "/kpim/kpim-measures-list-config.json",
       "kpimMeasure": "/kpim/kpim-measure-config.json",
       "compare": "/kpim/kpim-compare-config.json"
+    },
+    "dtm": {
+      "auth": "/dtm/dtm-auth-config.json",
+      "eventHandler": "/dtm/dtm-event-handler-config.json",
+      "sidebar": "/dtm/dtm-sidebar-config.json"
     }
   }
 }
