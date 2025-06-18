@@ -64,7 +64,8 @@
     "dtm": {
       "auth": "/dtm/dtm-auth-config.json",
       "eventHandler": "/dtm/dtm-event-handler-config.json",
-      "sidebar": "/dtm/dtm-sidebar-config.json"
+      "sidebar": "/dtm/dtm-sidebar-config.json",
+      "digitalTwinsList": "/rm/dtm-digital-twins-list-config.json"
     }
   }
 }
