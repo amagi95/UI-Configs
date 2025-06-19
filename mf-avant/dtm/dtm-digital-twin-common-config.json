@@ -1,0 +1,25 @@
+{
+  "mf": "Digital Twin Common",
+  "domain": [
+    {
+      "name": "Urban",
+      "value": "Urban"
+    },
+    {
+      "name": "Energy",
+      "value": "Energy"
+    },
+    {
+      "name": "Industry",
+      "value": "Industry"
+    },
+    {
+      "name": "Museum",
+      "value": "Museum"
+    },
+    {
+      "name": "Health",
+      "value": "Health"
+    }
+  ]
+}

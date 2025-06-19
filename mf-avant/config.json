@@ -64,7 +64,8 @@
     "dtm": {
       "auth": "/dtm/dtm-auth-config.json",
       "eventHandler": "/dtm/dtm-event-handler-config.json",
-      "sidebar": "/dtm/dtm-sidebar-config.json",
+      "sidebar": "/dtm/dtm-sidebar-config.json", 
+      "digitalTwinCommon": "/dtm/dtm-digital-twin-common-config.json",
       "digitalTwinsList": "/dtm/dtm-digital-twins-list-config.json",
       "digitalTwinEditor": "/dtm/dtm-digital-twin-editor-config.json"
     }
