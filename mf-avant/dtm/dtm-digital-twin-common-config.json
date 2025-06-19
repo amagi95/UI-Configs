@@ -1,6 +1,6 @@
 {
   "mf": "Digital Twin Common",
-  "domain": [
+  "domains": [
     {
       "name": "Urban",
       "value": "Urban"
