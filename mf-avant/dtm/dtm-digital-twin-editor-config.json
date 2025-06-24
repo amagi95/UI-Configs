@@ -1,5 +1,22 @@
 {
   "mf": "Digital Twin Editor",
   "api": "http://localhost:8085/api/v1",
-  "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
+  "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
+  "entites": [
+    {
+      "category": "Structure",
+      "icon": "mdi-domain",
+      "color": "blue"
+    },
+    {
+      "category": "Sensor",
+      "icon": "mdi-motion-sensor",
+      "color": "orange"
+    },
+    {
+      "category": "Actuator",
+      "icon": "mdi-cog",
+      "color": "green"
+    }
+  ]
 }
