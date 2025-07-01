@@ -21,5 +21,22 @@
       "name": "Health",
       "value": "Health"
     }
+  ],
+  "entites": [
+    {
+      "category": "Structure",
+      "icon": "mdi-domain",
+      "color": "blue"
+    },
+    {
+      "category": "Sensor",
+      "icon": "mdi-motion-sensor",
+      "color": "orange"
+    },
+    {
+      "category": "Actuator",
+      "icon": "mdi-cog",
+      "color": "green"
+    }
   ]
 }
