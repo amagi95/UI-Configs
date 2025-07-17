@@ -65,12 +65,12 @@
       "auth": "/dtm/dtm-auth-config.json",
       "eventHandler": "/dtm/dtm-event-handler-config.json",
       "sidebar": "/dtm/dtm-sidebar-config.json", 
-      "digitalTwinCommon": "/dtm/dtm-digital-twin-common-config.json",
-      "digitalTwinsList": "/dtm/dtm-digital-twins-list-config.json",
-      "digitalTwinEditor": "/dtm/dtm-digital-twin-editor-config.json",
-      "digitalTwinData": "/dtm/dtm-digital-twin-data-config.json",
-      "digitalTwinConversion": "/dtm/dtm-digital-twin-conversion-config.json",
-      "digitalTwinSummary": "/dtm/dtm-digital-twin-summary-config.json"
+      "digitalTwinCommon": "/dtm/dtm-common-config.json",
+      "digitalTwinModelsList": "/dtm/dtm-models-list-confi.json",
+      "digitalTwinRelationsEditor": "/dtm/dtm-relations-editor-config.json",
+      "digitalTwinDataDefinition": "/dtm/dtm-data-definition-config.json",
+      "digitalTwinModelConversion": "/dtm/dtm-model-conversion-config.json",
+      "digitalTwinSummary": "/dtm/dtm-summary-config.json"
     }
   }
 }

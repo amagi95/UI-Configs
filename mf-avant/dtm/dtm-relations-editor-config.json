@@ -1,5 +1,5 @@
 {
-  "mf": "Digital Twin Conversion",
+  "mf": "Digital Twin Relations Editor",
   "api": "http://localhost:8085/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
