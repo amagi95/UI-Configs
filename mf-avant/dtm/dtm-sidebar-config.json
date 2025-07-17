@@ -6,7 +6,7 @@
   "links": [
     {
       "title": "labels.dts",
-      "icon": "mdi-graph",
+      "icon": "mdi-graph-outline",
       "link": "/dts"
     }
   ],
