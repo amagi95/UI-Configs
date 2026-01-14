@@ -72,7 +72,7 @@
       "digitalTwinModelConversion": "/dtm/dtm-model-conversion-config.json",
       "digitalTwinModelSummary": "/dtm/dtm-model-summary-config.json",
       "digitalTwinEntitiesList": "/dtm/dtm-entities-list-config.json",
-      "digitalTwinEntities": "/dtm/dtm-entities-config.json"
+      "digitalTwinEntity": "/dtm/dtm-entity-config.json"
     }
   }
 }
